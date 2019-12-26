@@ -1,0 +1,69 @@
+Premiere Pro Notes
+
+
+###
+# Fade Audio out
+###
+1. Select Audio Clip
+2. Click Effect Controls
+3. Twiddle down Volume
+4. Ensure level clock is blue
+5. Put marker where you want fade out to start
+6. click on DB and change from 0 to - 55 (Click diamond which is a key frame)
+7. Drag keyframe the way you want audio to fade
+8. Re adjust DB to 0 on orignal marker and click keyframe(or Enter should create it)
+
+###
+# Create Sequence settings
+###
+1. File New Squence
+2. Twiddle down on Digital SLR
+3. Click 1080p with the FPS we want to use(whatever we shot in)
+4. Click settings
+5. Change frame size to 3840 x 2160 (this is for 4k sequence)
+6. Save Preset for future use
+
+###
+# Export Settings for Youtube or any other video sharing site
+###
+1. File Export Media
+2. Format H.264
+3. Preset > Custom
+4. Select Output name and location
+5. Ensure Export Video and Export Audio are both checked
+6. Under basic video settings make sure profile is set to high
+7. Change level to 4.2 for 1920x1080 and 5.2 for 3840x2160
+8. Verify Frame rate is what you need it to be
+9. Check maximum render depth
+10. Under bit rate settings use CBR 100
+    10a. if exporting for a client in 4k to watch use VBR 2 pass (40, 60)
+    10b. if exporting for a client in 1080p to watch us VBR 2 pass (10, 15)
+11. Audio format AAC
+12. Audio quality high
+13. Precedence Bitrate
+14. Save Preset(CBR 100mbps 3840x2160 30fps) OR save preset whatever it is
+
+###
+# Changing clips frame rate all at the same time
+###
+
+1. click the first clip in your left panel of clips that have been imported
+2. Shift click the last clip(all should highlight)
+3. right click one clip
+4. Modify > Interpret Footage
+5. Frame Rate > Assume this frame rate: pick frame rate(ex: 23.976)
+
+
+#################################
+# Filming Notes
+#################################
+
+###
+# Frame Rate shooting
+###
+- always have a plan when shooting
+- know why you are filming in a certain FPS and resolution
+1. Shoot in 24 fps when you have audio you are talking to and you dont want to slow down the footage
+2. no audio shoot in 30 fps and play back at 24 fps makes footage look dreamy
+3. shoot in 60 or 120 for slo mo
+4. if you pick a 30 fps sequence do not add a 24 fps shot to it. (dont add smaller frame rates to a sequence of higher frame rates)
