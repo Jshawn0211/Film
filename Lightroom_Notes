@@ -1,0 +1,34 @@
+###################
+# Lightroom Notes
+###################
+
+###
+# Instagram Settings
+###
+Aspect > 4 x 5 and push X to change the orientation
+
+###
+# Export Notes
+###
+File Setting > Quality 100
+Image Sizing > Resize to fit Short Edge 1080 pixel(vertical photo) and resolution 72 pixels per inch
+    Horizontal Photo - set the long edge to 1080 pixels
+
+Exposure - how much light is in the photo
+Contrast - increases contrast between lights and darks
+Linear Gradient - allows you to edit photo vertically
+Radial Gradien - allows you to edit photo in circle chunks
+
+###
+# HSL Hue Saturation Luminance
+###
+Hue - This is the tone of the color. Think of it as the different types of paint swatches for a different a color(ex. Blue)
+Saturation - Basically is removing color by fading the color away or making it stronger and more bolder and intense
+Luminance - Brightness of the color
+
+
+###
+# Tone Curve
+###
+Bottom Left - Darkest Shadows
+Top Right - Brightest Highlights
